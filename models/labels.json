@@ -1,0 +1,245 @@
+[
+  {
+    "id": 0,
+    "class_name": "Apple___Apple_scab",
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Venturia inaequalis (Fungus)"
+  },
+  {
+    "id": 1,
+    "class_name": "Apple___Black_rot",
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Botryosphaeria obtusa (Fungus)"
+  },
+  {
+    "id": 2,
+    "class_name": "Apple___Cedar_apple_rust",
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Gymnosporangium juniperi-virginianae"
+  },
+  {
+    "id": 3,
+    "class_name": "Apple___healthy",
+    "crop": "Apple",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  },
+  {
+    "id": 4,
+    "class_name": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "crop": "Corn (Maize)",
+    "disease": "Gray Leaf Spot",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Cercospora zeae-maydis"
+  },
+  {
+    "id": 5,
+    "class_name": "Corn___Common_rust",
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Puccinia sorghi"
+  },
+  {
+    "id": 6,
+    "class_name": "Corn___Northern_Leaf_Blight",
+    "crop": "Corn (Maize)",
+    "disease": "Northern Leaf Blight",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Exserohilum turcicum"
+  },
+  {
+    "id": 7,
+    "class_name": "Corn___healthy",
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  },
+  {
+    "id": 8,
+    "class_name": "Grape___Black_rot",
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Guignardia bidwellii"
+  },
+  {
+    "id": 9,
+    "class_name": "Grape___Esca_(Black_Measles)",
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Phaeomoniella chlamydospora"
+  },
+  {
+    "id": 10,
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "crop": "Grape",
+    "disease": "Leaf Blight",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Pseudocercospora vitis"
+  },
+  {
+    "id": 11,
+    "class_name": "Grape___healthy",
+    "crop": "Grape",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  },
+  {
+    "id": 12,
+    "class_name": "Pepper_bell___Bacterial_spot",
+    "crop": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Xanthomonas campestris"
+  },
+  {
+    "id": 13,
+    "class_name": "Pepper_bell___healthy",
+    "crop": "Bell Pepper",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  },
+  {
+    "id": 14,
+    "class_name": "Potato___Early_blight",
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Alternaria solani"
+  },
+  {
+    "id": 15,
+    "class_name": "Potato___Late_blight",
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Phytophthora infestans"
+  },
+  {
+    "id": 16,
+    "class_name": "Potato___healthy",
+    "crop": "Potato",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  },
+  {
+    "id": 17,
+    "class_name": "Tomato___Bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Xanthomonas vesicatoria"
+  },
+  {
+    "id": 18,
+    "class_name": "Tomato___Early_blight",
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Alternaria linariae"
+  },
+  {
+    "id": 19,
+    "class_name": "Tomato___Late_blight",
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "Phytophthora infestans"
+  },
+  {
+    "id": 20,
+    "class_name": "Tomato___Leaf_Mold",
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Passalora fulva"
+  },
+  {
+    "id": 21,
+    "class_name": "Tomato___Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Septoria lycopersici"
+  },
+  {
+    "id": 22,
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "crop": "Tomato",
+    "disease": "Spider Mites",
+    "health_status": "At Risk",
+    "risk_level": "High",
+    "pathogen": "Tetranychus urticae"
+  },
+  {
+    "id": 23,
+    "class_name": "Tomato___Target_Spot",
+    "crop": "Tomato",
+    "disease": "Target Spot",
+    "health_status": "Diseased",
+    "risk_level": "Medium",
+    "pathogen": "Corynespora cassiicola"
+  },
+  {
+    "id": 24,
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": "Tomato",
+    "disease": "Yellow Leaf Curl Virus",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "TYLCV"
+  },
+  {
+    "id": 25,
+    "class_name": "Tomato___Tomato_mosaic_virus",
+    "crop": "Tomato",
+    "disease": "Mosaic Virus",
+    "health_status": "Diseased",
+    "risk_level": "High",
+    "pathogen": "ToMV"
+  },
+  {
+    "id": 26,
+    "class_name": "Tomato___healthy",
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "health_status": "Healthy",
+    "risk_level": "Low",
+    "pathogen": "None"
+  }
+]
